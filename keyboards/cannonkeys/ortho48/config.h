@@ -56,6 +56,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #define RGBLED_NUM 9
 #define WS2812_SPI SPID2
 
+#define TAPPING_TERM 175
+
 /*
  * Feature disable options
  *  These options are also useful to firmware size reduction.

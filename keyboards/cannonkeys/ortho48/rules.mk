@@ -25,6 +25,7 @@ RGBLIGHT_ENABLE = yes
 WS2812_DRIVER = spi
 
 LAYOUTS = ortho_4x12
+TAP_DANCE_ENABLE = yes
 
 
 # Enter lower-power sleep mode when on the ChibiOS idle thread
